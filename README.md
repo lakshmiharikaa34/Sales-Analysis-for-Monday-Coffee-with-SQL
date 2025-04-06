@@ -1,5 +1,6 @@
 # ☕ Sales Analysis for Monday Coffee with SQL
-![image](https://github.com/user-attachments/assets/e5f113c4-c85c-4373-afaf-a646128206d6)
+![ChatGPT Image Apr 6, 2025, 01_14_22 PM](https://github.com/user-attachments/assets/26041f8f-c1b5-4edf-9eed-a38c0e3f5af0)
+
 
 
 ##  Objective
