@@ -9,7 +9,7 @@ The main objective is to recommend the **top three cities in India** where the c
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 The project uses four main tables:
 
@@ -22,7 +22,7 @@ The project uses four main tables:
 
 ---
 
-## 🧠 Key Analysis Performed
+## Key Analysis Performed
 
 1. **Estimated Coffee Consumers**  
    Identify top cities based on 25% of the population being potential coffee drinkers.
@@ -56,7 +56,7 @@ The project uses four main tables:
 
 ---
 
-## ✅ Final Recommendations
+## Final Recommendations
 
 Based on the SQL analysis, the recommended cities for new store openings are:
 
