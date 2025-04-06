@@ -1,5 +1,6 @@
 # ☕ Sales Analysis for Monday Coffee with SQL
-![image](https://github.com/user-attachments/assets/4ff57437-e538-4232-872a-fcab0718de53)
+![image](https://github.com/user-attachments/assets/e5f113c4-c85c-4373-afaf-a646128206d6)
+
 
 ##  Objective
 The goal of this project is to analyze the sales data of **Monday Coffee**, a company that has been selling its coffee products online since **January 2023**.  
