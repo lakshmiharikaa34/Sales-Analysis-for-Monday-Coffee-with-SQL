@@ -1,13 +1,12 @@
 # ☕ Sales Analysis for Monday Coffee with SQL
+![image](https://github.com/user-attachments/assets/4ff57437-e538-4232-872a-fcab0718de53)
 
-## 📌 Objective
+##  Objective
 The goal of this project is to analyze the sales data of **Monday Coffee**, a company that has been selling its coffee products online since **January 2023**.  
 The main objective is to recommend the **top three cities in India** where the company can open new physical coffee shop locations based on:
 - Consumer demand
 - Sales performance
 - Cost-efficiency
-
----
 
 ## Dataset Overview
 
@@ -20,7 +19,6 @@ The project uses four main tables:
 | `customers` | Customer profiles including city |
 | `sales` | Sales transactions including date, product, customer, amount, and rating |
 
----
 
 ## Key Analysis Performed
 
@@ -54,7 +52,6 @@ The project uses four main tables:
 10. **Top 3 Cities for New Stores**  
    Final decision based on revenue, cost, customer engagement, and market size.
 
----
 
 ## Final Recommendations
 
